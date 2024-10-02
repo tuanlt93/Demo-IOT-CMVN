@@ -1,0 +1,8 @@
+database:
+  server: 'DESKTOP-F949R9A'
+  database: 'cmvn-demo'
+  username: 'root'
+  password: 'root'
+
+api:
+  url: 'http://172.28.59.32:5001/machine/data'
